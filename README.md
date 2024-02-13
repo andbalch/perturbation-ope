@@ -18,3 +18,15 @@
   * The algo recommends Y, the clinician is considering some option Z
     * We want this technique to provide a landscape of possible actions for the clinician in an interpretable way
     * Visualize using saliency maps
+
+## Toy Experiment
+### Approach 
+* Implement RL
+* Implement DL classifier
+* Implement Pert. OPE ()
+* Compare actions from RL to POPE-extracted actions
+* Visualize POPE
+* Compare to OPE and counterfactual techniques
+
+### Datasets and Environments
+* antmaze (https://github.com/google-research/deep_ope)
