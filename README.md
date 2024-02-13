@@ -29,4 +29,5 @@
 * Compare to OPE and counterfactual techniques
 
 ### Datasets and Environments
-* antmaze (https://github.com/google-research/deep_ope)
+#### antmaze (https://github.com/google-research/deep_ope)
+Sparse reward is compatable with the proposed classification approach, episodes do not last as long as other control envs, dimensionality is relatively low.
