@@ -1,0 +1,4 @@
+minari
+gymnasium-robotics
+torch
+torchrl
